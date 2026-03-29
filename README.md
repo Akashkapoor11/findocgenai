@@ -134,6 +134,4 @@ findocgenai/
 - [x] Architecture document (`docs/ARCHITECTURE.md`)
 - [x] Addresses PS9 — AI Money Mentor
 
----
 
-*FinDocGenAI — because financial literacy is a right, not a privilege.*
