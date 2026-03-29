@@ -124,14 +124,6 @@ findocgenai/
 | Hidden charge detection | Avg. ₹8,000–₹40,000 in charges flagged per document |
 | Scale potential | 10,000 bank branches × 50 customers/day = ₹40 crore/day in advisory savings |
 
----
 
-##  Submission Checklist
-
-- [x] GitHub repository with commit history
-- [x] README with setup instructions
-- [x] Working live demo
-- [x] Architecture document (`docs/ARCHITECTURE.md`)
-- [x] Addresses PS9 — AI Money Mentor
 
 
