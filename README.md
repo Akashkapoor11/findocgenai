@@ -11,12 +11,12 @@
 
 **FinDocGenAI** uploads any Indian financial document (loan agreement, insurance policy, credit card agreement) and delivers in under 30 seconds:
 
-- 📄 **Plain-language summary** — what you are signing, explained simply
-- 💰 **Key metrics extraction** — EMI, interest rate, tenure, fees, all in one place
-- 🛡️ **Risk report** — dangerous clauses flagged by severity with actionable advice
-- 🧮 **EMI Calculator** — model what-if scenarios, pre-filled from your document
-- 💬 **AI Q&A** — ask anything about your document in plain English
-- 📥 **Download Report** — save your full analysis as a text file
+- **Plain-language summary** — what you are signing, explained simply
+- **Key metrics extraction** — EMI, interest rate, tenure, fees, all in one place
+- **Risk report** — dangerous clauses flagged by severity with actionable advice
+- **EMI Calculator** — model what-if scenarios, pre-filled from your document
+- **AI Q&A** — ask anything about your document in plain English
+- **Download Report** — save your full analysis as a text file
 
 ---
 
