@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 What It Solves
+##  What It Solves
 
 95% of Indians have no financial plan. Most people sign loan agreements and insurance policies without understanding them — leading to hidden charges, missed rights, and financial traps.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.10+
@@ -62,7 +62,7 @@ Open **http://localhost:5173**
 
 ---
 
-## 🤖 Model
+##  Model
 
 | Model | Why |
 |-------|-----|
@@ -70,7 +70,7 @@ Open **http://localhost:5173**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 findocgenai/
@@ -98,7 +98,7 @@ findocgenai/
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Backend (Render — free tier)
 1. Push to GitHub
@@ -114,7 +114,7 @@ findocgenai/
 
 ---
 
-## 📊 Impact Model
+##  Impact Model
 
 | Metric | Value |
 |--------|-------|
@@ -126,7 +126,7 @@ findocgenai/
 
 ---
 
-## ✅ Submission Checklist
+##  Submission Checklist
 
 - [x] GitHub repository with commit history
 - [x] README with setup instructions
